@@ -1,4 +1,4 @@
-package com.example.toserveman
+package com.benjaminwijk.toserveman
 
 import org.junit.Test
 
