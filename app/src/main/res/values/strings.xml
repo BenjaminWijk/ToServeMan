@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">ToServeMan</string>
-    <string name="hola">HOLA</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="edit_recipe_name_hint">Name</string>
+    <string name="edit_recipe_description">Description</string>
+    <string name="edit_recipe_save">Save recipe</string>
+    <string name="edit_recipe_clear">Clear recipe</string>
 </resources>
